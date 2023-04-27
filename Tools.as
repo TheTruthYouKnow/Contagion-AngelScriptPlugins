@@ -1,12 +1,12 @@
 //某些工具性的东西
 //--------------------------
 //复活
-void AdminRespawnPlyaer(CTerrorPlayer@ pPlayer){
+void RespawnPlyaer(CTerrorPlayer@ pPlayer){
   pPlayer.Respawn();
 }
 
 //获取武器
-void AdminGiveWeapon(string weaponName,CTerrorPlayer@ pPlayer){
+void GiveWeapon(string weaponName,CTerrorPlayer@ pPlayer){
 	//是否已经拥有此武器了
 	if(Utils.StrContains(weaponName,pPlayer.GetCurrentWeapon().GetClassname())){
 	  Chat.PrintToChat( pPlayer, "你已拥有"+pPlayer.GetCurrentWeapon().GetClassname()+"！");
@@ -24,7 +24,7 @@ void RemoveCurrentItem(CTerrorPlayer@ pPlayer){
     return;
   };
   pPlayer.RemoveWeapon(pPlayer.GetWeaponSlot(CurrentItem));
-  Chat.PrintToChat(pPlayer,"武器 }"+pPlayer.GetCurrentWeapon().GetClassname()+"已被删除");
+  Chat.PrintToChat(pPlayer,"武器"+pPlayer.GetCurrentWeapon().GetClassname()+"已被删除");
 }
 
 //--------------------------
