@@ -16,16 +16,4 @@ void RespawnToHuman(CTerrorPlayer@ pPlayer){
 	pBaseEntity.Respawn();
 }
 
-//获取武器
-//解决某些武器要打"weapon_"才能拿到
-void GiveWeapon(string weaponName,CTerrorPlayer@ pPlayer){
-	pPlayer.GiveWeapon("weapon_"+weaponName);
-}
-
-//删除当前武器
-void RemoveCurrentItem(CTerrorPlayer@ pPlayer){
-	pPlayer.RemoveWeapon(pPlayer.GetWeaponSlot(CurrentItem));
-	Chat.PrintToChat(pPlayer,"武器"+pPlayer.GetCurrentWeapon().GetClassname()+"已被删除");
-}
-
 //----------debug----------
