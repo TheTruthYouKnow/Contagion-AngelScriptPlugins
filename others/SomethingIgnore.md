@@ -1,6 +1,2 @@
-## 【不用看】一些私人存档。
-[20230512](somethingIgnore.zip)
-关于我和[紫冰](https://github.com/ZBzibing)的一些矛盾？<br>
-有人的地方就有矛盾<br>
-他觉得我说话模棱两可不愿公开代码，我吐槽他说他只愿意考虑自己不考虑别人（**仅代表我对他的感受**）<br>
-然后他就炸毛了。。。。<br>
+## 一些私人存档。
+WzIwMjMwNTEyXShzb21ldGhpbmdJZ25vcmUuemlwKQrlhbPkuo7miJHlkoxb57Sr5YawXShodHRwczovL2dpdGh1Yi5jb20vWkJ6aWJpbmcp55qE5LiA5Lqb55+b55u+77yfPGJyPgrmnInkurrnmoTlnLDmlrnlsLHmnInnn5vnm748YnI+CuS7luinieW+l+aIkeivtOivneaooeajseS4pOWPr+S4jeaEv+WFrOW8gOS7o+egge+8jOaIkeWQkOanveS7luivtOS7luWPquaEv+aEj+iAg+iZkeiHquW3seS4jeiAg+iZkeWIq+S6uu+8iCoq5LuF5Luj6KGo5oiR5a+55LuW55qE5oSf5Y+XKirvvIk8YnI+CueEtuWQjuS7luWwseeCuOavm+S6huOAguOAguOAguOAgjxicj4=
