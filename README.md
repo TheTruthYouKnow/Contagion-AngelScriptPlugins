@@ -1,3 +1,4 @@
+# 简体中文版:![中文版说明](关于.md)
 # Contagion-AngelScriptPlugins
 My angelscript repositories in github.
 ## Describe
